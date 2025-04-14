@@ -1,3 +1,3 @@
 # Git Demo COSC
 
-Date: 14-04-2025
+Date: 14 Apr 2025
